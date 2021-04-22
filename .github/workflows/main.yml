@@ -17,7 +17,7 @@ steps:
 - name: Check out Git repository
 uses: actions/checkout@main
 - name: Run GitHub Super Linter
-uses: github/super-linter@master
+uses: github/super-linter@main
 env:
 VALIDATE_ALL_CODEBASE: true
 DEFAULT_BRANCH: main
