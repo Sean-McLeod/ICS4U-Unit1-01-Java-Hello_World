@@ -6,4 +6,4 @@
 * @version 1.0
 * @since   2021-04-22
 */
-package ca.mths.Unit1.Unit1-01.java.hello_world;
+package ca.mths.Unit1.Unit1_01.java.hello_world;
